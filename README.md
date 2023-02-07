@@ -1,4 +1,10 @@
-<h1 align="center">Hello World 👋, I'm ZuriUG</h1>
+<h1 align="left">Hello World :earth_americas:, I'm ZuriUG</h1>
+
+<p align="left">
+<i>I'm studying CS at <a href="https://www.fciencias.unam.mx/">Facultad de Ciencias</i></a>
+</p>
+<img alt="loading" width="300" align="left" src="./Zurisadai.png">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ugzuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugzuri" height="30" width="40" /></a>
