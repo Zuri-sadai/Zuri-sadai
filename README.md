@@ -1,7 +1,7 @@
 <h1 align="left">Hello World :earth_americas:, I'm ZuriUG</h1>
 
 <p align="left">
-<a>I'm studying CS at <a href="https://www.fciencias.unam.mx/">Facultad de Ciencias</i></a>
+<a>I was studied at  <a href="https://www.fciencias.unam.mx/">Facultad de Ciencias</i></a>
 </p>
 <img alt="loading" width="300" align="left" src="./Zurisadai.png">
 
