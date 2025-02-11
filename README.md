@@ -1,4 +1,4 @@
-<h1 align="left">Hello World :earth_americas:, I'm ZuriUG</h1>
+<h1 align="left">Hello :earth_americas:, I'm Zuri UG</h1>
 
 <p align="left">
 <a>I was studied at  <a href="https://www.fciencias.unam.mx/">Facultad de Ciencias</i></a>
