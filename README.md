@@ -4,8 +4,6 @@
 <a>🎓 I studied at <a href="https://www.fciencias.unam.mx/">Facultad de Ciencias</i></a>, UNAM
 </p>
 <img alt="loading" width="300" align="left" src="./Zurisadai.png">
-✨ Passionate about user experience and frontend development. I'm interested in creating <strong>intuitive</strong>, <strong>accessible</strong> and <strong>functional</strong> interfaces.
-
 🎯 Currently exploring <strong>modern web design</strong> and <strong>development tools</strong> to improve how we build digital experiences.  
 
 <h3 align="left">Languages and Tools:</h3>
